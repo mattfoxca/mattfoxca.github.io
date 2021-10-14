@@ -238,8 +238,10 @@ a {
   }
 
   .image {
-    height: 240px;
-    max-height: 30vh;
+    /*height: 240px;*/
+    height: 400px;
+    /*max-height: 30vh;*/
+    max-height: 100vh;
   }
 }
 
